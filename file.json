@@ -1,9 +1,8 @@
+
 {
-"user": [
-{
-"part1": "ca-app-pub-3940256099942544/1033173712",
-"name": "Raj Amal",
-"email": "raj.amalw@gmail.com"
-}
+"Employee":[
+  {
+"id": "ca-app-pub-3940256099942544/1033173712",
+  }
 ]
 }
